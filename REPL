@@ -1,0 +1,31 @@
+##############################################
+# REPL
+##############################################
+
+
+// 1
+
+"Hello Wold"
+
+// 2
+
+1 + 10
+
+// 3
+
+"entel_db".split("_")
+
+// 4 
+
+"entel_db".split("_")(0)
+
+// 5
+
+println("entel_db".split("_")(0))
+
+// 6
+
+// println("ypfb_db.sells".split(".")(1)) // Throws Exception
+
+// 7
+println("pfb_db.sells".split("\\.")(1))
